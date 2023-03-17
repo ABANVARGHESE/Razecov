@@ -1,0 +1,8 @@
+Razecov mini
+
+Same pcb is used as for razecov 100
+Limit switch relays will not be there
+Only one relay for lighting the tubes, so one opto - transistor circuit is required
+Power power relay is not needed, just short the relay points (Common and NO) in the pcb.
+Regarding the connectors, only AC supply connector, 3 motion sensor connector, 5V supply connector, and the tube supply connector are required.
+ 
